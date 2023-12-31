@@ -1,0 +1,8 @@
+
+> medusa-starter-default@0.0.1 build /Users/serturk/Documents/code/der-collection/apps/medusa
+> cross-env npm run clean && tsc -p tsconfig.json
+
+
+> medusa-starter-default@0.0.1 clean
+> cross-env ./node_modules/.bin/rimraf dist
+

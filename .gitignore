@@ -45,4 +45,7 @@ next-env.d.ts
 ./tsconfig.tsbuildinfo
 medusa-db.sql
 
-+ .turbo
+.turbo
+build/**
+dist/**
+.next/**
